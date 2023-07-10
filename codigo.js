@@ -482,7 +482,7 @@ panaderiaBotton.addEventListener('click', mostrarProductosPanaderia);
 // JSON
 
 async function obtenerProductosJson(){
-  const urljson = '/productos.json';
+  const urljson = 'productos.json';
   const respuesta = await fetch(urljson);
   const data = await respuesta.json();
   productosAComprar = data;
