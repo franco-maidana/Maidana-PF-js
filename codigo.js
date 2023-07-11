@@ -34,7 +34,7 @@ let carrito = JSON.parse(localStorage.getItem("carrito")) || [];
 function ProductosDelArray(){ 
 for (const producto of productosAComprar) {
   let carta = document.createElement('div');
-  carta.className = 'holaCard col-md-4';
+  carta.className = 'holaCard col-md-3';
   carta.innerHTML = `
     <div class="chau card">
     <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
@@ -86,7 +86,7 @@ function mostrarProductosBazar() {
   // Crear y mostrar tarjetas de productos para los productos filtrados de bazar
   for (const producto of productosFiltrados) {
     let carta = document.createElement('div');
-    carta.className = 'hola card col-md-4';
+    carta.className = 'hola card col-md-3';
     carta.innerHTML = `
       <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
@@ -139,7 +139,7 @@ function mostrarProductosAlmacen() {
   // Crear y mostrar tarjetas de productos para los productos filtrados de almacen
   for (const producto of productosAlmacen) {
     let carta = document.createElement('div');
-    carta.className = 'hola card col-md-4';
+    carta.className = 'hola card col-md-3';
     carta.innerHTML = `
       <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
@@ -189,7 +189,7 @@ function mostrarProductosBebidas() {
   // Crear y mostrar tarjetas de productos para los productos filtrados de bebidas
   for (const producto of productosBebidas) {
     let carta = document.createElement('div');
-    carta.className = 'hola card col-md-4';
+    carta.className = 'hola card col-md-3';
     carta.innerHTML = `
       <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
@@ -239,7 +239,7 @@ function mostrarProductosCongelados() {
   // Crear y mostrar tarjetas de productos para los productos filtrados de congelados
   for (const producto of productosCongelados) {
     let carta = document.createElement('div');
-    carta.className = 'hola card col-md-4';
+    carta.className = 'hola card col-md-3';
     carta.innerHTML = `
       <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
@@ -289,7 +289,7 @@ function mostrarProductosFiabres() {
   // Crear y mostrar tarjetas de productos para los productos filtrados de fiambrería
   for (const producto of productosFiabres) {
     let carta = document.createElement('div');
-    carta.className = 'hola card col-md-4';
+    carta.className = 'hola card col-md-3';
     carta.innerHTML = `
       <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
@@ -339,7 +339,7 @@ function mostrarProductosVerduleria() {
   // Crear y mostrar tarjetas de productos para los productos filtrados de frutas y verduras
   for (const producto of productosVerduras) {
     let carta = document.createElement('div');
-    carta.className = 'hola card col-md-4';
+    carta.className = 'hola card col-md-3';
     carta.innerHTML = `
       <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
@@ -389,7 +389,7 @@ function mostrarProductosLimpieza() {
   // Create and display product cards for the filtered cleaning products
   for (const producto of productosLimpieza) {
     let carta = document.createElement('div');
-    carta.className = 'hola card col-md-4';
+    carta.className = 'hola card col-md-3';
     carta.innerHTML = `
       <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
@@ -439,7 +439,7 @@ function mostrarProductosPanaderia() {
   // Crear y mostrar las tarjetas de productos para los productos filtrados de panadería
   for (const producto of productosPanaderia) {
     let carta = document.createElement('div');
-    carta.className = 'hola card col-md-4';
+    carta.className = 'hola card col-md-3';
     carta.innerHTML = `
       <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
@@ -487,4 +487,4 @@ async function obtenerProductosJson(){
   const data = await respuesta.json();
   productosAComprar = data;
   ProductosDelArray();
-}
+};

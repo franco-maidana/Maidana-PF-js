@@ -35,7 +35,7 @@ let botonBuscar = document.querySelector('.buscador button');
   // Mostrar los productos encontrados en la búsqueda
     for (const producto of resultados) {
     let carta = document.createElement('div');
-    carta.className = 'holaCard col-md-4';
+    carta.className = 'holaCard col-md-3';
     carta.innerHTML = `
         <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">
