@@ -7,7 +7,7 @@ let fondoNegro = document.getElementById('fondoAvisosCookies');
 
 // condicional
 // en caso de que no se encuentre nada guardado ejecutame este codigo 
-if(!localStorage.getItem('cookiesAceptado')){
+if(!sessionStorage.getItem('cookiesAceptado')){
     avisosCookies.classList.add('activo');
     fondoNegro.classList.add('activo');
 }
@@ -17,8 +17,8 @@ if(!localStorage.getItem('cookiesAceptado')){
 botonCookies.addEventListener('click', () => {
     avisosCookies.classList.remove('activo');
     fondoNegro.classList.remove('activo');
-    // le avisamos al localstorage que se aceptaron las condiciones
-    localStorage.setItem('cookiesAceptado', true)
+    // le avisamos al SessionStorage que se aceptaron las condiciones
+    sessionStorage.setItem('cookiesAceptado', true)
 });
 
 // funcionamiento de la barra para buscar productos
@@ -35,7 +35,7 @@ let botonBuscar = document.querySelector('.buscador button');
   // Mostrar los productos encontrados en la búsqueda
     for (const producto of resultados) {
     let carta = document.createElement('div');
-    carta.className = 'holaCard col-md-3';
+    carta.className = 'holaCard col-md-2';
     carta.innerHTML = `
         <div class="chau card">
         <img class="card-img-top" src="${producto.imagen}" alt="Card image cap">

@@ -284,9 +284,6 @@ nav div h1 {
 
 /* carta de productos */
 
-.chau{
-  border: 1px solid black;
-}
 .row{
   display: flex;
   flex-direction: row;
@@ -295,17 +292,29 @@ nav div h1 {
 
 .hola{
   margin: 10px;
+  padding: 0px;
 }
 
-.holaCard {
+  .holaCard {
   background-color: #f2f2f2;
-  margin: 10px;
+  margin: 8px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.card-body {
+  .card-body {
   text-align: center;
   background-color: #cdd3ce;
   border-top: 1px solid black;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .card-title {
@@ -348,7 +357,7 @@ nav div h1 {
 /* Estilos generales */
 .informacion {
   width: 300px;
-  /* margin: 0 auto; */
+ 
 }
 
 /* Estilos para los campos de entrada */
@@ -357,8 +366,7 @@ input[type="email"],
 input[type="number"],
 textarea {
   width: 100%;
-  /* padding: 5px; */
-  /* margin-bottom: 10px; */
+
 }
 
 /* Estilos para las etiquetas de los campos de entrada */
@@ -425,24 +433,60 @@ label {
 
 /* fin de cartas de productos*/
 @media screen and (max-width: 768px) {
+  .padreBuscador {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    margin-bottom: -20px;
+  }
+  .carritoDeCompra{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;  
+  }
   
+  .buscador input[type="text"] {
+    width: 200px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+  }
+
+  .buscador button {
+    width: 50px;
+    padding: 5px;
+    background-color: #333;
+    color: #fff;
+    border: 1PX solid white;
+    border-radius: 20px;
+    margin-left: 10px;
+  }
+  
+  .buscador button:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+  }
+
   header h1 {
     display: none;
   }
 
   nav {
-    float: none;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    /* float: none; */
     background-color: darkgray;
     
   }
 
   nav div h1 {
-    display: flex;
-    font-size: 21px;
-  }
-
-  .logo {
-    display: none;
+    /* display: flex; */
+    font-size: 18px;
   }
 
   .nav-links {
@@ -477,6 +521,7 @@ label {
 
   .burger {
     display: block;
+
   }
 
   article {
@@ -493,14 +538,17 @@ label {
     height: 200px;
   }
   .card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
-    font-size: 15px;
+    font-size: 10px;
     border-left: 1px solid black;
     border-top: none;
   }
 
   .card-body h5 {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   .card-body h6 {
@@ -512,7 +560,10 @@ label {
   }
 
   .btn {
-    width: 30%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 40%;
   }
 }
 
@@ -528,13 +579,22 @@ label {
     width: 60%;
   }
 
+  .informacion p {
+    font-weight: bolder;
+  }
+
   .sobreNosotros {
     width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: baseline;
-    margin-top: 10px;
+    margin-top: 5px;
+  }
+
+  .sobreNosotros p {
+    display: none;
+
   }
 
   .redSocial {
@@ -549,10 +609,14 @@ label {
     flex-direction: row;
     list-style: none;
   }
+  .redSocial ul p {
+    display: none;
+  }
 
   .redSocial ul a {
-    display: inline-block;
-    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 
   .cantidadCarrito{
