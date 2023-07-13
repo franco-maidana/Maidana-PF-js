@@ -488,3 +488,53 @@ async function obtenerProductosJson(){
   productosAComprar = data;
   ProductosDelArray();
 };
+
+// mensaje de texto que se envia en el footer y queda guardado en el localStorage
+let botonEnviar = document.getElementById('botonform');
+botonEnviar.addEventListener('click', () => {
+  const Toast = Swal.mixin({
+    toast: true,
+    position: 'top-end',
+    showConfirmButton: false,
+    timer: 3000,
+    timerProgressBar: true,
+    didOpen: (toast) => {
+        toast.addEventListener('mouseenter', Swal.stopTimer)
+        toast.addEventListener('mouseleave', Swal.resumeTimer)
+    }
+    })
+    
+    Toast.fire({
+    icon: 'success',
+    title: 'Mensaje enviado con exito'
+    })
+});
+
+// mini base de datos en el localStorage Simula una base de datos donde se llenan los datos y se van directamente
+// en el localStorage para luego ser utilizados 
+const formulario = document.querySelector('form');
+
+formulario.addEventListener('submit', (e) => {
+  e.preventDefault();
+
+  const nombre = document.querySelector('input[type="text"]').value;
+  const email = document.querySelector('input[type="email"]').value;
+  const telefono = document.querySelector('input[type="number"]').value;
+  const consulta = document.querySelector('textarea').value;
+
+  const datos = {
+    nombre,
+    email,
+    telefono,
+    consulta
+  };
+
+  let datosGuardados = localStorage.getItem('datos');
+  if (datosGuardados) {
+    datosGuardados = JSON.parse(datosGuardados);
+    datosGuardados.push(datos);
+    localStorage.setItem('datos', JSON.stringify(datosGuardados));
+  } else {
+    localStorage.setItem('datos', JSON.stringify([datos]));
+  }
+});

@@ -109,7 +109,7 @@
     "marca": "Salsati",
     "precio": "$ 220",
     "categoria": "Almacen",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/238291-300-300?v=637862172063170000&width=300&height=300&aspect=true"
+    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/280731-300-300?v=638182174193730000&width=300&height=300&aspect=true"
   },
   {
     "id": 15,
@@ -309,15 +309,15 @@
     "marca": "Sprite",
     "categoria": "Bebidas",
     "precio": "$ 375",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/302007-240-240?v=1774899043&width=240&height=240&aspect=true"
+    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/284828-300-300?v=638218461776200000&width=300&height=300&aspect=true"
   },
   {
     "id": 42,
     "nombre": "Jugo de naranja",
-    "marca": "Del Valle",
+    "marca": "Citric",
     "categoria": "Bebidas",
-    "precio": "$ 130",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/275353-240-240?v=1774904853&width=240&height=240&aspect=true"
+    "precio": "$ 820",
+    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/219734-300-300?v=637854516779600000&width=300&height=300&aspect=true"
   },
   {
     "id": 43,
@@ -365,7 +365,7 @@
     "marca": "Cepita",
     "categoria": "Bebidas",
     "precio": "$ 300",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/276040-240-240?v=1774902759&width=240&height=240&aspect=true"
+    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/273549-300-300?v=638120938207500000&width=300&height=300&aspect=true"
   },
   {
     "id": 49,
