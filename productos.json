@@ -817,11 +817,11 @@
   },
   {
     "id": 106,
-    "nombre": "Detergente líquido",
+    "nombre": "Detergente",
     "marca": "Cif",
     "categoria": "Limpieza",
     "precio": "$150",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/261793-300-300?v=638023413809130000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/DetergenteCifPlatos.webp"
   },
   {
     "id": 107,
@@ -829,7 +829,7 @@
     "marca": "Zorro",
     "categoria": "Limpieza",
     "precio": "$80",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/204897-300-300?v=637850727762970000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/LimpiadorVidriosZorro.webp"
   },
   {
     "id": 108,
@@ -837,7 +837,7 @@
     "marca": "Dove",
     "categoria": "Limpieza",
     "precio": "$50",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/309385-500-auto?v=638150911811870000&width=500&height=auto&aspect=true"
+    "imagen": "imgProductos/limpieza/JabonParaManosDove.webp"
   },
   {
     "id": 109,
@@ -845,7 +845,7 @@
     "marca": "Cif",
     "categoria": "Limpieza",
     "precio": "$120",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/217319-300-300?v=637854084295130000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/DesinfectantesMultiusosCif.webp"
   },
   {
     "id": 110,
@@ -853,15 +853,15 @@
     "marca": "Procenex",
     "categoria": "Limpieza",
     "precio": "$180",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/159013-300-300?v=637835129110630000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/LimpiadoDePisosProcenex.webp"
   },
   {
     "id": 111,
-    "nombre": "Detergente en polvo",
+    "nombre": "Jabon en polvo",
     "marca": "Ala",
     "categoria": "Limpieza",
     "precio": "$200",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/243675-300-300?v=637869838043500000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/JabonEnPolvoALa.jpg"
   },
   {
     "id": 112,
@@ -869,7 +869,7 @@
     "marca": "multiuso",
     "categoria": "Limpieza",
     "precio": "$40",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/156872-300-300?v=637835124404470000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/Virulana.webp"
   },
   {
     "id": 113,
@@ -877,7 +877,7 @@
     "marca": "Poet",
     "categoria": "Limpieza",
     "precio": "$70",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/252983-300-300?v=637935177893200000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/DesodoranteDeAmbientePoett.webp"
   },
   {
     "id": 114,
@@ -885,7 +885,7 @@
     "marca": "Elegante",
     "categoria": "Limpieza",
     "precio": "$90",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/249054-300-300?v=637895434079870000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/PañuelosDePapel.webp"
   },
   {
     "id": 115,
@@ -893,7 +893,7 @@
     "marca": "Cif",
     "categoria": "Limpieza",
     "precio": "$150",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/286962-300-300?v=638224401699830000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/LimpiadoDeBañosCif.webp"
   },
   {
     "id": 116,
@@ -901,7 +901,7 @@
     "marca": "Scott",
     "categoria": "Limpieza",
     "precio": "$120",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/222637-300-300?v=637855155194770000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/ToallitasHumedad.webp"
   },
   {
     "id": 117,
@@ -909,7 +909,7 @@
     "marca": "Poett",
     "categoria": "Limpieza",
     "precio": "$100",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/252988-300-300?v=637935177905800000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/DesodoranteDeAmbientePoettVerde.webp"
   },
   {
     "id": 118,
@@ -917,7 +917,7 @@
     "marca": "Ayudín",
     "categoria": "Limpieza",
     "precio": "$60",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/223111-300-300?v=637855259802300000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/LavandinaAyudin.webp"
   },
   {
     "id": 119,
@@ -925,7 +925,7 @@
     "marca": "Mapa",
     "categoria": "Limpieza",
     "precio": "$80",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/225178-300-300?v=637855395193930000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/GuantesDelimpiezaMapa.webp"
   },
   {
     "id": 120,
@@ -933,7 +933,7 @@
     "marca": "Higienol",
     "categoria": "Limpieza",
     "precio": "$110",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/284010-300-300?v=638206474952270000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/PapelHigienico.webp"
   },
   {
     "id": 121,
@@ -941,7 +941,7 @@
     "marca": "Vanish",
     "categoria": "Limpieza",
     "precio": "$130",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/158525-300-300?v=637835128388570000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/QuitamanchasVanish.webp"
   },
   {
     "id": 122,
@@ -949,7 +949,7 @@
     "marca": "Cif",
     "categoria": "Limpieza",
     "precio": "$160",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/260298-300-300?v=638013045920130000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/LimpiadorDePisos.webp"
   },
   {
     "id": 123,
@@ -957,7 +957,7 @@
     "marca": "mr musculo",
     "categoria": "Limpieza",
     "precio": "$90",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/256703-300-300?v=637968117985900000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/limpieza/AntigrasasMrMusculo.webp"
   },
   {
     "id": 124,
