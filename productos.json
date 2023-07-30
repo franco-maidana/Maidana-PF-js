@@ -173,7 +173,7 @@
     "marca": "Duracell",
     "precio": "$ 1385",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/314285-240-240?v=1775516980&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/PilasDU.webp"
   },
   {
     "id": 24,
@@ -181,7 +181,7 @@
     "marca": "tu",
     "precio": "$ 748",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/166429-240-240?v=1774814264&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/Broches.webp"
   },
   {
     "id": 25,
@@ -189,7 +189,7 @@
     "marca": "Ziploc",
     "precio": "$ 1006",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/163705-240-240?v=1774801119&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/Ziploc.webp"
   },
   {
     "id": 26,
@@ -197,7 +197,7 @@
     "marca": "AKAI ENERGY",
     "precio": "$ 630",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/158726-240-240?v=1774886175&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/LamparitaLed.webp"
   },
   {
     "id": 27,
@@ -205,7 +205,7 @@
     "marca": "La Gotita",
     "precio": "$ 800",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/187542-240-240?v=1774897010&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/PegamentoLaGotita.webp"
   },
   {
     "id": 28,
@@ -213,7 +213,7 @@
     "marca": "triples empaste",
     "precio": "$523",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/160474-240-240?v=1774884306&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/Sahumerio.webp"
   },
   {
     "id": 29,
@@ -221,7 +221,7 @@
     "marca": "spa coco vainilla",
     "precio": "$ 1200",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/160593-240-240?v=1774875410&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/DifusorOrganicoSPA.webp"
   },
   {
     "id": 30,
@@ -229,7 +229,7 @@
     "marca": "Separata 5mts",
     "precio": "$ 550",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/163695-240-240?v=1774876775&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/FilmAluminio.webp"
   },
   {
     "id": 31,
@@ -237,7 +237,7 @@
     "marca": "Barrilil 2 x 100 u",
     "precio": "$687",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/230753-240-240?v=1774888427&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/PalillosEscarbadientes.webp"
   },
   {
     "id": 32,
@@ -245,7 +245,7 @@
     "marca": "pampa",
     "precio": "$ 2500",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/163182-240-240?v=1774903433&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/Juegodevasos.jpg"
   },
   {
     "id": 33,
@@ -253,7 +253,7 @@
     "marca": "primavera grande",
     "precio": "$ 3200",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/163029-240-240?v=1774877422&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/Ensaladera.webp"
   },
   {
     "id": 34,
@@ -261,7 +261,7 @@
     "marca": "carol",
     "precio": "$1000",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/193319-240-240?v=1774875841&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/SetDeCuchillos.webp"
   },
   {
     "id": 35,
@@ -269,7 +269,7 @@
     "marca": "300 cc",
     "precio": "$220",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/266574-240-240?v=1774902938&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/VasosIndividuales.webp"
   },
   {
     "id": 36,
@@ -277,7 +277,7 @@
     "marca": "C/U",
     "precio": "$ 300",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/163338-240-240?v=1774876813&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/SaleroDeMesa.webp"
   },
   {
     "id": 37,
@@ -285,7 +285,7 @@
     "marca": "Vallarta flist 1L",
     "precio": "$ 1500",
     "categoria": "Bazar",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/163003-240-240?v=1774902932&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bazar/JarraDeAgua.webp"
   },
   {
     "id": 39,
