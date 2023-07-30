@@ -5,7 +5,7 @@
     "marca": "Cocinero",
     "precio": "$ 600",
     "categoria": "Almacen",
-    "imagen": "imgProductos/AceiteCocinero.webp"
+    "imagen": "imgProductos/Almacen/AceiteCocinero.webp"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "marca": "Cañuelas",
     "precio": "$ 750",
     "categoria": "Almacen",
-    "imagen": "imgProductos/AceiteCañuelas.webp"
+    "imagen": "imgProductos/Almacen/AceiteCañuelas.webp"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "marca": "Maroleo",
     "precio": "$ 220",
     "categoria": "Almacen",
-    "imagen": "imgProductos/FideosMostacholMaroleo.webp"
+    "imagen": "imgProductos/Almacen/FideosMostacholMaroleo.webp"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "marca": "Matarazzo",
     "precio": "$ 235",
     "categoria": "Almacen",
-    "imagen": "imgProductos/FideosMostacholMaterazzi.webp"
+    "imagen": "imgProductos/Almacen/FideosMostacholMaterazzi.webp"
   },
   {
     "id": 5,
@@ -37,47 +37,47 @@
     "marca": "Terrabusi",
     "precio": "$ 220",
     "categoria": "Almacen",
-    "imagen": "imgProductos/FideosSpaghettiTerrabusi.webp"
+    "imagen": "imgProductos/Almacen/FideosSpaghettiTerrabusi.webp"
   },
   {
     "id": 6,
-    "nombre": "Fideos spaghetti",
+    "nombre": "Fideos Tirabuzzon",
     "marca": "Matarazzo",
     "precio": "$ 240",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/318015-1200-auto?v=638180310961830000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/FideosTirabuzzonMatarazzo.webp"
   },
   {
     "id": 7,
-    "nombre": "Fideos tirabuzon",
-    "marca": "Favorito",
+    "nombre": "Fideos tirabuzon....",
+    "marca": "Favorita",
     "precio": "$ 230",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/234899-1200-auto?v=637793428852870000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/FideosTirabuzzonFavorita.webp"
   },
   {
     "id": 8,
-    "nombre": "Fideos tirabuzon",
+    "nombre": "Fideos tirabuzon..",
     "marca": "Terrabussi",
     "precio": "$ 220",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/175357-1200-auto?v=637468569701530000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/FideosTirabuzzonTerrabusi.webp"
   },
   {
     "id": 9,
-    "nombre": "Harina integral",
+    "nombre": "Harina para pan integral",
     "marca": "Pureza",
     "precio": "$ 260",
     "categoria": "Almacen",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/224882-1200-auto?v=637855393483400000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/HarinaIntegralPureza.webp"
   },
   {
     "id": 10,
-    "nombre": "Harina de trigo",
+    "nombre": "Harina comun de trigo.",
     "marca": "Caserita",
     "precio": "$ 190",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/274269-1200-auto?v=638115559930500000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/HarinaComunCaserita.webp"
   },
   {
     "id": 11,
@@ -85,31 +85,31 @@
     "marca": "Caserita",
     "precio": "$ 225",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/274268-1200-auto?v=638115549618470000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/HarinaLeudanteCaserita.jpg"
   },
   {
     "id": 12,
-    "nombre": "Harina de trigo",
+    "nombre": "Harina comun de trigo",
     "marca": "Pureza",
     "precio": "$ 240",
     "categoria": "Almacen",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/212971-1200-auto?v=637853428686100000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/HarinaComunPuereza.webp"
   },
   {
     "id": 13,
-    "nombre": "Lata de tomates",
+    "nombre": "Lata de tomates peritas",
     "marca": "Arcor",
     "precio": "$ 175",
     "categoria": "Almacen",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/282554-1200-auto?v=638192649763400000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/LataTomatePerita.webp"
   },
   {
     "id": 14,
-    "nombre": "Lata de tomates",
+    "nombre": "Lata de salsa de  tomates",
     "marca": "Salsati",
     "precio": "$ 220",
     "categoria": "Almacen",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/280731-300-300?v=638182174193730000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/Almacen/SalsaTomateSalsati.jpg"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "marca": "Inalpa",
     "precio": "$ 500",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/241888-240-240?v=637865793507400000&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/Almacen/LataLentejas.webp"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "marca": "La española",
     "precio": "$ 440",
     "categoria": "Almacen",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/238291-300-300?v=637862172063170000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/Almacen/LentejasLaEspañola.webp"
   },
   {
     "id": 17,
@@ -133,15 +133,15 @@
     "marca": "Arcor",
     "precio": "$ 180",
     "categoria": "Almacen",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/263517-1200-auto?v=638037238019300000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/PureDeTomatesArcor.webp"
   },
   {
     "id": 18,
     "nombre": "Pure de tomates",
-    "marca": "Salsati",
+    "marca": "Molto",
     "precio": "$ 220",
     "categoria": "Almacen",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/217443-1200-auto?v=637854084707400000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/Almacen/PureDeTomatesMolto.webp"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "marca": "Celusal",
     "precio": "$ 180",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/196629-240-240?v=637523688684930000&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/Almacen/SalFinaCelusal.webp"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "marca": "Aliada",
     "precio": "$ 90",
     "categoria": "Almacen",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/275197-300-300?v=638137353698670000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/Almacen/SalFina.webp"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "marca": "Menoyo",
     "precio": "$ 240",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/209174-240-240?v=1774834731&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/Almacen/VinagreMenoyo.webp"
   },
   {
     "id": 23,
