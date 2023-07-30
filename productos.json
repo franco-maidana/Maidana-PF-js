@@ -389,7 +389,7 @@
     "marca": "Express",
     "categoria": "Congelados",
     "precio": "$ 200",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/176840-240-240?v=1774918222&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/HamburguesasExpress.jpg"
   },
   {
     "id": 52,
@@ -397,7 +397,7 @@
     "marca": "Paty",
     "categoria": "Congelados",
     "precio": "$ 150",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/348156-240-240?v=1774919438&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/HamburguesasClasicasX12.webp"
   },
   {
     "id": 53,
@@ -405,7 +405,7 @@
     "marca": "Rancho Alto",
     "categoria": "Congelados",
     "precio": "$ 180",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/176920-240-240?v=1774908695&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/HamburguesasRanchoAlto.webp"
   },
   {
     "id": 54,
@@ -413,7 +413,7 @@
     "marca": "Paladini",
     "categoria": "Congelados",
     "precio": "$ 250",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/324507-240-240?v=1774904268&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/HamburguesaPaladiniCerdo.webp"
   },
   {
     "id": 55,
@@ -421,7 +421,7 @@
     "marca": "Swift",
     "categoria": "Congelados",
     "precio": "$ 220",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/180014-240-240?v=1774920522&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/BocaditosDePolloSwifft.webp"
   },
   {
     "id": 56,
@@ -429,7 +429,7 @@
     "marca": "Frescoreal",
     "categoria": "Congelados",
     "precio": "$ 170",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/346811-240-240?v=1774921733&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/SupremitasDePollo.webp"
   },
   {
     "id": 57,
@@ -437,7 +437,7 @@
     "marca": "Granja de sol",
     "categoria": "Congelados",
     "precio": "$ 190",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/312496-240-240?v=1774921186&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/MilanesasDeSojaRellenas.webp"
   },
   {
     "id": 58,
@@ -445,7 +445,7 @@
     "marca": "Luchetti",
     "categoria": "Congelados",
     "precio": "$ 230",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/312529-240-240?v=1774921146&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/MedallonesDePolloLucchetti.webp"
   },
   {
     "id": 59,
@@ -453,7 +453,7 @@
     "marca": "Fruiti",
     "categoria": "Congelados",
     "precio": "$ 1600",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/254351-240-240?v=1774891925&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/MilanesasDeCerdoCongeladas.webp"
   },
   {
     "id": 60,
@@ -461,7 +461,7 @@
     "marca": "GourmetFit",
     "categoria": "Congelados",
     "precio": "$ 280",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/257296-240-240?v=1774921943&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/MedallonesDeMerluza.webp"
   },
   {
     "id": 61,
@@ -469,7 +469,7 @@
     "marca": "Natural",
     "categoria": "Congelados",
     "precio": "$ 1300",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/312390-240-240?v=1774907502&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/CroquetasDePapasGranjasDelSol.webp"
   },
   {
     "id": 62,
@@ -477,7 +477,7 @@
     "marca": "Deliciosa",
     "categoria": "Congelados",
     "precio": "$ 210",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/336180-240-240?v=1774921297&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/PizzaCongelada.webp"
   },
   {
     "id": 63,
@@ -485,7 +485,7 @@
     "marca": "Frescoreal",
     "categoria": "Congelados",
     "precio": "$ 1800",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/188489-240-240?v=1774910558&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/EmpanadasCongeladas.webp"
   },
   {
     "id": 64,
@@ -493,7 +493,7 @@
     "marca": "Delicieux",
     "categoria": "Congelados",
     "precio": "$ 200",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/257294-240-240?v=1774792691&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/BarritasDeMozzarella.webp"
   },
   {
     "id": 65,
@@ -501,7 +501,7 @@
     "marca": "Marítimo",
     "categoria": "Congelados",
     "precio": "$ 880",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/188491-240-240?v=1774909325&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/TartasIndibiduales.webp"
   },
   {
     "id": 66,
@@ -509,7 +509,7 @@
     "marca": "Sabrosas",
     "categoria": "Congelados",
     "precio": "$ 170",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/257292-240-240?v=1774286823&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/CoquetasDejamonYQueso.webp"
   },
   {
     "id": 67,
@@ -517,7 +517,7 @@
     "marca": "GourmetFit",
     "categoria": "Congelados",
     "precio": "$ 260",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/184765-240-240?v=1774919732&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/AcelgaCongelada.webp"
   },
   {
     "id": 68,
@@ -525,7 +525,7 @@
     "marca": "Green",
     "categoria": "Congelados",
     "precio": "$ 200",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/202472-240-240?v=1774912408&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/congelados/FrutillasCongeladas.webp"
   },
   {
     "id": 70,
