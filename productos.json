@@ -533,7 +533,7 @@
     "marca": "Tradizione",
     "categoria": "Fiambrería",
     "precio": "$ 180",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/250648-240-240?v=1774911563&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/SalameMilan.webp"
   },
   {
     "id": 71,
@@ -541,7 +541,7 @@
     "marca": "cagnoli",
     "categoria": "Fiambrería",
     "precio": "$ 250",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/312620-240-240?v=1774918978&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/JamonCocindoCagnoli.webp"
   },
   {
     "id": 72,
@@ -549,7 +549,7 @@
     "marca": "Paladini",
     "categoria": "Fiambrería",
     "precio": "$ 210",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/308175-240-240?v=1774918318&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/JamonCocindoPaladini.webp"
   },
   {
     "id": 73,
@@ -557,7 +557,7 @@
     "marca": "Casera",
     "categoria": "Fiambrería",
     "precio": "$ 190",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/250650-240-240?v=1774917243&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/Mortadela.webp"
   },
   {
     "id": 74,
@@ -565,7 +565,7 @@
     "marca": "Paladini",
     "categoria": "Fiambrería",
     "precio": "$ 320",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/309484-240-240?v=1774912043&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/SalchichonPrimaveraPaladini.webp"
   },
   {
     "id": 75,
@@ -573,7 +573,7 @@
     "marca": "Lario",
     "categoria": "Fiambrería",
     "precio": "$ 280",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/308477-240-240?v=1774908078&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/BondoliaLario.webp"
   },
   {
     "id": 76,
@@ -581,7 +581,7 @@
     "marca": "Gourmet",
     "categoria": "Fiambrería",
     "precio": "$ 350",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/308183-240-240?v=1774918803&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/JamonCocindoPaladiniBarra.webp"
   },
   {
     "id": 77,
@@ -589,7 +589,7 @@
     "marca": "Delicia Italiana",
     "categoria": "Fiambrería",
     "precio": "$ 230",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/213912-240-240?v=1774919549&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/PancetaAhumadaItaliana.webp"
   },
   {
     "id": 78,
@@ -597,7 +597,7 @@
     "marca": "Tradicional",
     "categoria": "Fiambrería",
     "precio": "$ 240",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/205931-240-240?v=1774876901&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/SalchichonConJamon.webp"
   },
   {
     "id": 79,
@@ -605,7 +605,7 @@
     "marca": "Saborosa",
     "categoria": "Fiambrería",
     "precio": "$ 200",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/205533-240-240?v=1774905086&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/SalaminPicado.webp"
   },
   {
     "id": 80,
@@ -613,7 +613,7 @@
     "marca": "El bierzo",
     "categoria": "Fiambrería",
     "precio": "$ 290",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/205532-240-240?v=1774885111&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/SalaminTipoEspañol.webp"
   },
   {
     "id": 81,
@@ -621,7 +621,7 @@
     "marca": "Dambo",
     "categoria": "Fiambrería",
     "precio": "$ 260",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/320191-240-240?v=1774919646&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/QuesoDambo.webp"
   },
   {
     "id": 82,
@@ -629,7 +629,7 @@
     "marca": "La paulina",
     "categoria": "Fiambrería",
     "precio": "$ 270",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/234600-240-240?v=1774919326&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/QuesoMozarrelaLaPaulina.webp"
   },
   {
     "id": 83,
@@ -637,7 +637,7 @@
     "marca": "La serenisima",
     "categoria": "Fiambrería",
     "precio": "$ 240",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/274913-240-240?v=1774920566&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/QuesoRalladoLaSerenisima.webp"
   },
   {
     "id": 84,
@@ -645,7 +645,7 @@
     "marca": "La serenisima",
     "categoria": "Fiambrería",
     "precio": "$ 200",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/273883-240-240?v=1774918372&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/QuesoPortSaludLaSerenisima.webp"
   },
   {
     "id": 85,
@@ -653,15 +653,15 @@
     "marca": "Lucrecia",
     "categoria": "Fiambrería",
     "precio": "$ 2800",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/241543-240-240?v=1774919049&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/QuesoAzulLucrecia.webp"
   },
   {
     "id": 86,
-    "nombre": "Queso",
+    "nombre": "Queso Reggianito",
     "marca": "La serenisima",
     "categoria": "Fiambrería",
     "precio": "$ 300",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/273893-240-240?v=1774920379&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/QuesoRegginatoLaSerenisima.webp"
   },
   {
     "id": 87,
@@ -669,7 +669,7 @@
     "marca": "puyehue",
     "categoria": "Fiambrería",
     "precio": "$ 310",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/251166-240-240?v=1774918073&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/fiambreria/QuesoTybo.webp"
   },
   {
     "id": 88,
