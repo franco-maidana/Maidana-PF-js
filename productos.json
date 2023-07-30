@@ -677,7 +677,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 400",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/176841-240-240?v=1774906160&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Manzana.webp"
   },
   {
     "id": 89,
@@ -685,7 +685,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 800",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/176896-240-240?v=1774906494&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Frutilla.webp"
   },
   {
     "id": 90,
@@ -693,7 +693,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 370",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/248243-240-240?v=1774905023&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Naranja.webp"
   },
   {
     "id": 91,
@@ -701,7 +701,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 299",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/196201-240-240?v=1774905816&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Pera.webp"
   },
   {
     "id": 92,
@@ -709,7 +709,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 150",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/178192-240-240?v=1774905229&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Mandarina.webp"
   },
   {
     "id": 93,
@@ -717,7 +717,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 740",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/201740-240-240?v=1774905520&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Piña.webp"
   },
   {
     "id": 94,
@@ -725,7 +725,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 280",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/176854-240-240?v=1774905752&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Limon.webp"
   },
   {
     "id": 95,
@@ -733,7 +733,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 699",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/201750-240-240?v=1774905084&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Lima.webp"
   },
   {
     "id": 96,
@@ -741,7 +741,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 950",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/176827-240-240?v=1774898205&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Kiwi.webp"
   },
   {
     "id": 97,
@@ -749,7 +749,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 489",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/205551-240-240?v=1774900886&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Pomelo.webp"
   },
   {
     "id": 98,
@@ -757,7 +757,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 490",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/206128-240-240?v=1774905771&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/CebollaBlanca.webp"
   },
   {
     "id": 99,
@@ -765,7 +765,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 460",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/184472-240-240?v=1774906680&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Lechuga.webp"
   },
   {
     "id": 100,
@@ -773,7 +773,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 800",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/184380-240-240?v=1774907119&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Tomate.webp"
   },
   {
     "id": 101,
@@ -781,7 +781,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 270",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/226755-240-240?v=1774907600&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Zanahoria.webp"
   },
   {
     "id": 102,
@@ -789,7 +789,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 90",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/184447-240-240?v=1774907048&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Papa.webp"
   },
   {
     "id": 103,
@@ -797,7 +797,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 60",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/184457-240-240?v=1774907517&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Pimiento.webp"
   },
   {
     "id": 104,
@@ -805,7 +805,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 580",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/201730-240-240?v=1774905085&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/RepolloColorado.webp"
   },
   {
     "id": 105,
@@ -813,7 +813,7 @@
     "marca": "El kg.",
     "categoria": "FrutasYVerduras",
     "precio": "$ 300",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/196196-240-240?v=1774907603&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/frutayverdura/Cebolla.webp"
   },
   {
     "id": 106,
