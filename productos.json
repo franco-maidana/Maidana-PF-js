@@ -289,11 +289,11 @@
   },
   {
     "id": 39,
-    "nombre": "Refresco de cola",
+    "nombre": "Gaseosa Coca-Cola",
     "marca": "Coca-Cola",
     "categoria": "Bebidas",
     "precio": "$ 475",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/332148-240-240?v=1774903803&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bebidas/GaseosaCocacola.webp"
   },
   {
     "id": 40,
@@ -301,15 +301,15 @@
     "marca": "Ades soja",
     "categoria": "Bebidas",
     "precio": "$ 220",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/275515-240-240?v=1774877908&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bebidas/JugoAdes.webp"
   },
   {
     "id": 41,
-    "nombre": "Gaseosa de limón",
+    "nombre": "Gaseosa de lima limon",
     "marca": "Sprite",
     "categoria": "Bebidas",
     "precio": "$ 375",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/284828-300-300?v=638218461776200000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/bebidas/GaseosaLimaLimonSprite.webp"
   },
   {
     "id": 42,
@@ -317,15 +317,15 @@
     "marca": "Citric",
     "categoria": "Bebidas",
     "precio": "$ 820",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/219734-300-300?v=637854516779600000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/bebidas/JugoCitric.webp"
   },
   {
     "id": 43,
-    "nombre": "Refresco de cola light",
+    "nombre": "Gaseosa de cola light",
     "marca": "Coca-Cola",
     "categoria": "Bebidas",
     "precio": "$ 475",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/275464-240-240?v=1774903599&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bebidas/GaseosaCocacolaLigth.webp"
   },
   {
     "id": 44,
@@ -333,31 +333,31 @@
     "marca": "Fanta",
     "categoria": "Bebidas",
     "precio": "$ 375",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/275289-240-240?v=1774904478&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bebidas/GaseosaFantaNaranja.jpg"
   },
   {
     "id": 45,
-    "nombre": "Pomelo",
+    "nombre": "Gaseosa Pomelo",
     "marca": "paso de los toros",
     "categoria": "Bebidas",
     "precio": "$ 130",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/308955-240-240?v=1774892238&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bebidas/GaseosaPasosDeLosTorosPomelo.webp"
   },
   {
     "id": 46,
-    "nombre": "Guarana",
+    "nombre": "Gaseosa Guarana",
     "marca": "Antartica",
     "categoria": "Bebidas",
     "precio": "$ 237",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/277282-240-240?v=1774904056&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bebidas/GaseosaGuarana.webp"
   },
   {
     "id": 47,
-    "nombre": "Tonica",
+    "nombre": "Gaseosa Tonica",
     "marca": "Pasos de los toros",
     "categoria": "Bebidas",
     "precio": "$ 375",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/308942-240-240?v=1774904206&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bebidas/GaseosaPasosDeLosTorosTonica.webp"
   },
   {
     "id": 48,
@@ -365,7 +365,7 @@
     "marca": "Cepita",
     "categoria": "Bebidas",
     "precio": "$ 300",
-    "imagen": "https://masonlineprod.vtexassets.com/arquivos/ids/273549-300-300?v=638120938207500000&width=300&height=300&aspect=true"
+    "imagen": "imgProductos/bebidas/JugoCepita.webp"
   },
   {
     "id": 49,
@@ -373,7 +373,7 @@
     "marca": "Tang",
     "categoria": "Bebidas",
     "precio": "$ 60",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/272016-240-240?v=1774905677&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bebidas/JugoEnSobreTang.webp"
   },
   {
     "id": 50,
@@ -381,7 +381,7 @@
     "marca": "Coca-Cola",
     "categoria": "Bebidas",
     "precio": "$ 600",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/333788-240-240?v=1774904840&width=240&height=240&aspect=true"
+    "imagen": "imgProductos/bebidas/GaseosaCocacolaSinAzucar.webp"
   },
   {
     "id": 51,
