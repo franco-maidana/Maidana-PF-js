@@ -2,18 +2,18 @@
   {
     "id": 1,
     "nombre": "Aceite de girasol",
-    "marca": "Cañuelas",
+    "marca": "Cocinero",
     "precio": "$ 600",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/192351-1200-auto?v=637515947620670000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/AceiteCocinero.webp"
   },
   {
     "id": 2,
     "nombre": "Aceite de girasol",
-    "marca": "Cocinero",
+    "marca": "Cañuelas",
     "precio": "$ 750",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/193270-1200-auto?v=637515951429070000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/AceiteCañuelas.webp"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "marca": "Maroleo",
     "precio": "$ 220",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/175183-1200-auto?v=637468568767830000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/FideosMostacholMaroleo.webp"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "marca": "Matarazzo",
     "precio": "$ 235",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/318016-1200-auto?v=638180310971370000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/FideosMostacholMaterazzi.webp"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "marca": "Terrabusi",
     "precio": "$ 220",
     "categoria": "Almacen",
-    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/178724-1200-auto?v=637468580111130000&width=1200&height=auto&aspect=true"
+    "imagen": "imgProductos/FideosSpaghettiTerrabusi.webp"
   },
   {
     "id": 6,
