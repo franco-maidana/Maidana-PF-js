@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "nombre": "Harina para pan integral",
+    "nombre": "Harina Integral",
     "marca": "Pureza",
     "precio": "$ 260",
     "categoria": "Almacen",
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "nombre": "Harina comun de trigo.",
+    "nombre": "Harina de trigo.",
     "marca": "Caserita",
     "precio": "$ 190",
     "categoria": "Almacen",
@@ -85,11 +85,11 @@
     "marca": "Caserita",
     "precio": "$ 225",
     "categoria": "Almacen",
-    "imagen": "imgProductos/Almacen/HarinaLeudanteCaserita.jpg"
+    "imagen": "imgProductos/Almacen/HarinaLeudanteCaserita.webp"
   },
   {
     "id": 12,
-    "nombre": "Harina comun de trigo",
+    "nombre": "Harina de trigo",
     "marca": "Pureza",
     "precio": "$ 240",
     "categoria": "Almacen",
@@ -97,7 +97,7 @@
   },
   {
     "id": 13,
-    "nombre": "Lata de tomates peritas",
+    "nombre": "Lata de tomates",
     "marca": "Arcor",
     "precio": "$ 175",
     "categoria": "Almacen",
@@ -105,7 +105,7 @@
   },
   {
     "id": 14,
-    "nombre": "Lata de salsa de  tomates",
+    "nombre": "salsa de  tomates",
     "marca": "Salsati",
     "precio": "$ 220",
     "categoria": "Almacen",
@@ -297,15 +297,15 @@
   },
   {
     "id": 40,
-    "nombre": "Jugo de manzana soja",
-    "marca": "Ades soja",
+    "nombre": "Jugo de soja",
+    "marca": "Ades-Manzana",
     "categoria": "Bebidas",
     "precio": "$ 220",
     "imagen": "imgProductos/bebidas/JugoAdes.webp"
   },
   {
     "id": 41,
-    "nombre": "Gaseosa de lima limon",
+    "nombre": "Gaseosa lima-limon",
     "marca": "Sprite",
     "categoria": "Bebidas",
     "precio": "$ 375",
@@ -321,7 +321,7 @@
   },
   {
     "id": 43,
-    "nombre": "Gaseosa de cola light",
+    "nombre": "Gaseosa light",
     "marca": "Coca-Cola",
     "categoria": "Bebidas",
     "precio": "$ 475",
@@ -329,11 +329,11 @@
   },
   {
     "id": 44,
-    "nombre": "Gaseosa de naranja",
+    "nombre": "Gaseosa naranja",
     "marca": "Fanta",
     "categoria": "Bebidas",
     "precio": "$ 375",
-    "imagen": "imgProductos/bebidas/GaseosaFantaNaranja.jpg"
+    "imagen": "imgProductos/bebidas/fanta240x240.jpg"
   },
   {
     "id": 45,
@@ -369,7 +369,7 @@
   },
   {
     "id": 49,
-    "nombre": "Sobre de jugo de Naranja",
+    "nombre": "Sobre de Naranja",
     "marca": "Tang",
     "categoria": "Bebidas",
     "precio": "$ 60",
@@ -377,7 +377,7 @@
   },
   {
     "id": 50,
-    "nombre": "Gaseosa de cola zero",
+    "nombre": "Gaseosa Zero",
     "marca": "Coca-Cola",
     "categoria": "Bebidas",
     "precio": "$ 600",
@@ -389,11 +389,11 @@
     "marca": "Express",
     "categoria": "Congelados",
     "precio": "$ 200",
-    "imagen": "imgProductos/congelados/HamburguesasExpress.jpg"
+    "imagen": "imgProductos/congelados/hamburguesasExpress240x240.jpg"
   },
   {
     "id": 52,
-    "nombre": "Hmburguesas clasicas por 12",
+    "nombre": "hamburgesas clasic x12",
     "marca": "Paty",
     "categoria": "Congelados",
     "precio": "$ 150",
@@ -457,7 +457,7 @@
   },
   {
     "id": 60,
-    "nombre": "Medallon de merluza",
+    "nombre": "Medallones",
     "marca": "GourmetFit",
     "categoria": "Congelados",
     "precio": "$ 280",
@@ -497,7 +497,7 @@
   },
   {
     "id": 65,
-    "nombre": "Tarta individual",
+    "nombre": "Tarta individual varios sabores",
     "marca": "Marítimo",
     "categoria": "Congelados",
     "precio": "$ 880",
@@ -545,7 +545,7 @@
   },
   {
     "id": 72,
-    "nombre": "Jamon cocido",
+    "nombre": "Jamon cocido feteadas",
     "marca": "Paladini",
     "categoria": "Fiambrería",
     "precio": "$ 210",
@@ -553,7 +553,7 @@
   },
   {
     "id": 73,
-    "nombre": "Mortadela",
+    "nombre": "Mortadela de 1era feteadas",
     "marca": "Casera",
     "categoria": "Fiambrería",
     "precio": "$ 190",
@@ -569,7 +569,7 @@
   },
   {
     "id": 75,
-    "nombre": "Bondiola feteada",
+    "nombre": "Bondiola de cerdo feteada",
     "marca": "Lario",
     "categoria": "Fiambrería",
     "precio": "$ 280",
@@ -593,7 +593,7 @@
   },
   {
     "id": 78,
-    "nombre": "Salchichon con jamon",
+    "nombre": "Salchichon",
     "marca": "Tradicional",
     "categoria": "Fiambrería",
     "precio": "$ 240",
@@ -841,7 +841,7 @@
   },
   {
     "id": 109,
-    "nombre": "Desinfectante multiusos",
+    "nombre": "Desinfectante",
     "marca": "Cif",
     "categoria": "Limpieza",
     "precio": "$120",
@@ -865,7 +865,7 @@
   },
   {
     "id": 112,
-    "nombre": "Esponja de cocina",
+    "nombre": "Esponja de cocina multiuso",
     "marca": "multiuso",
     "categoria": "Limpieza",
     "precio": "$40",
@@ -873,15 +873,15 @@
   },
   {
     "id": 113,
-    "nombre": "Desodorante ambiental",
+    "nombre": "Desodorante de Ambiente",
     "marca": "Poet",
     "categoria": "Limpieza",
-    "precio": "$70",
+    "precio": "$700",
     "imagen": "imgProductos/limpieza/DesodoranteDeAmbientePoett.webp"
   },
   {
     "id": 114,
-    "nombre": "Pañuelos de papel",
+    "nombre": "Pañuelos de papel descartables",
     "marca": "Elegante",
     "categoria": "Limpieza",
     "precio": "$90",
@@ -889,7 +889,7 @@
   },
   {
     "id": 115,
-    "nombre": "Limpiador de baños",
+    "nombre": "Limpiador de baños en crema",
     "marca": "Cif",
     "categoria": "Limpieza",
     "precio": "$150",
@@ -897,7 +897,7 @@
   },
   {
     "id": 116,
-    "nombre": "Toallas Humedas",
+    "nombre": "Toallitas humectantes",
     "marca": "Scott",
     "categoria": "Limpieza",
     "precio": "$120",
@@ -913,7 +913,7 @@
   },
   {
     "id": 118,
-    "nombre": "Lavandina",
+    "nombre": "Agua Lavandina al 70%",
     "marca": "Ayudín",
     "categoria": "Limpieza",
     "precio": "$60",
@@ -921,7 +921,7 @@
   },
   {
     "id": 119,
-    "nombre": "Guantes de limpieza",
+    "nombre": "Guantes de limpieza plumita",
     "marca": "Mapa",
     "categoria": "Limpieza",
     "precio": "$80",
@@ -1033,8 +1033,8 @@
   },
   {
     "id": 133,
-    "marca": "El kg.",
-    "nombre": "Pan para hamburguesas",
+    "marca": "La Bolsa",
+    "nombre": "Pan hamburguesas",
     "categoria": "Panadería",
     "precio": "$ 40",
     "imagen": "imgProductos/panaderia/Pan para hamburguesas.webp"
@@ -1050,7 +1050,7 @@
   {
     "id": 135,
     "marca": "El kg.",
-    "nombre": "Pan de mesa artesanal",
+    "nombre": "Pan artesanal",
     "categoria": "Panadería",
     "precio": "$ 50",
     "imagen": "imgProductos/panaderia/Pan de mesa artesanal.webp"
@@ -1097,8 +1097,8 @@
   },
   {
     "id": 141,
-    "marca": "El kg.",
-    "nombre": "Biscochuelo de vainilla",
+    "marca": "La Unidad",
+    "nombre": "Biscochuelos",
     "categoria": "Panadería",
     "precio": "$ 70",
     "imagen": "imgProductos/panaderia/Biscochuelo de vainilla.webp"
