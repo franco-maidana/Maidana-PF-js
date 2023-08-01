@@ -236,7 +236,10 @@ nav div h1 {
   cursor: grabbing;
 }
 
-
+.small-image{
+  width: 75px;
+  height: 100px;
+}
 
 .carrito {
   width: 100%;

@@ -54,6 +54,7 @@ for (const producto of productosAComprar) {
     nombre: producto.nombre,
     marca: producto.marca,
     precio: producto.precio,
+    imagen: producto.imagen,
   });
   localStorage.setItem("carrito", JSON.stringify(carrito));
   Swal.fire({
@@ -107,6 +108,7 @@ function mostrarProductosBazar() {
         nombre: producto.nombre,
         marca: producto.marca,
         precio: producto.precio,
+        imagen: producto.imagen,
       });
       localStorage.setItem("carrito", JSON.stringify(carrito));
       Swal.fire({
@@ -160,6 +162,7 @@ function mostrarProductosAlmacen() {
         nombre: producto.nombre,
         marca: producto.marca,
         precio: producto.precio,
+        imagen: producto.imagen,
       });
       localStorage.setItem("carrito", JSON.stringify(carrito));
       Swal.fire({
@@ -210,6 +213,7 @@ function mostrarProductosBebidas() {
         nombre: producto.nombre,
         marca: producto.marca,
         precio: producto.precio,
+        imagen: producto.imagen,
       });
       localStorage.setItem("carrito", JSON.stringify(carrito));
       Swal.fire({
@@ -260,6 +264,7 @@ function mostrarProductosCongelados() {
         nombre: producto.nombre,
         marca: producto.marca,
         precio: producto.precio,
+        imagen: producto.imagen,
       });
       localStorage.setItem("carrito", JSON.stringify(carrito));
       Swal.fire({
@@ -310,6 +315,7 @@ function mostrarProductosFiabres() {
         nombre: producto.nombre,
         marca: producto.marca,
         precio: producto.precio,
+        imagen: producto.imagen,
       });
       localStorage.setItem("carrito", JSON.stringify(carrito));
       Swal.fire({
@@ -360,6 +366,7 @@ function mostrarProductosVerduleria() {
         nombre: producto.nombre,
         marca: producto.marca,
         precio: producto.precio,
+        imagen: producto.imagen,
       });
       localStorage.setItem("carrito", JSON.stringify(carrito));
       Swal.fire({
@@ -410,6 +417,7 @@ function mostrarProductosLimpieza() {
         nombre: producto.nombre,
         marca: producto.marca,
         precio: producto.precio,
+        imagen: producto.imagen,
       });
       localStorage.setItem("carrito", JSON.stringify(carrito));
       Swal.fire({
@@ -460,6 +468,7 @@ function mostrarProductosPanaderia() {
         nombre: producto.nombre,
         marca: producto.marca,
         precio: producto.precio,
+        imagen: producto.imagen,
       });
       localStorage.setItem("carrito", JSON.stringify(carrito));
       Swal.fire({
